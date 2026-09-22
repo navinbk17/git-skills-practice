@@ -1,2 +1,2 @@
 Project title: Git Skills Practice
-Favorite workflow: undecided
+Favorite workflow: direct main updates
